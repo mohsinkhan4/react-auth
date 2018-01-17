@@ -1,0 +1,29 @@
+[{
+	"artist": "Pink Floyd",
+	"album": "The Division Bell",
+	"sales": 20
+},{
+	"artist": "Poets Of The Fall",
+	"album": "Jealous Gods",
+	"sales": 30
+}, {
+	"artist": "Cranberries",
+	"album" : "Stars",
+	"sales": 40
+}, {
+	"artist": "Evanescence",
+	"album" : "Fallen",
+	"sales": 20
+}, {
+	"artist": "Nirvana",
+	"album" : "Nevermind",
+	"sales": 60
+}, {
+	"artist": "Metallica",
+	"album" : "Master Of Puppets",
+	"sales": 50
+}, {
+	"artist": "Indian Ocean",
+	"album" : "Kandisa",
+	"sales": 90
+}]
